@@ -12,7 +12,10 @@ public class PlayerMovement : MonoBehaviour
     private float coyoteTimeCounter;
     private float jumpBufferTime = 0.2f;
     private float jumpBufferCounter;
+    public bool isKicking = false;
+    public bool isJumping = false;
 
+    [SerializeField] private Animator animator;
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
@@ -23,9 +26,16 @@ public class PlayerMovement : MonoBehaviour
     private GameObject nearbyBubble = null;
     private bool canKick = true;
 
+    private void Start()
+    {
+        animator = GetComponent<Animator>();
+    }
+
     void Update()
     {
         horizontal = Input.GetAxisRaw("Horizontal");
+
+        Flip();
 
         if (IsGrounded())
         {
@@ -38,6 +48,7 @@ public class PlayerMovement : MonoBehaviour
 
         if (Input.GetButtonDown("Jump"))
         {
+            animator.SetBool("isJumping", true);
             jumpBufferCounter = jumpBufferTime;
         }
         else
@@ -61,17 +72,18 @@ public class PlayerMovement : MonoBehaviour
         {
             KickBubble();
         }
-
-        Flip();
     }
 
     private void FixedUpdate()
     {
         rb.velocity = new Vector2(horizontal * speed, rb.velocity.y);
+        animator.SetFloat("Movement", Mathf.Abs(rb.velocity.x));
+        animator.SetFloat("Jump", rb.velocity.y);
     }
 
     private bool IsGrounded()
     {
+        animator.SetBool("isJumping", false);
         return Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
     }
 
@@ -90,12 +102,14 @@ public class PlayerMovement : MonoBehaviour
     {
         if (nearbyBubble != null)
         {
+            animator.SetBool("isKicking", true);
             BubbleHandler bubbleHandler = nearbyBubble.GetComponent<BubbleHandler>();
             if (bubbleHandler != null)
             {
                 Vector2 kickDirection = isFacingRight ? Vector2.right : Vector2.left;
                 bubbleHandler.OnKicked(kickDirection * kickForce);
                 StartCoroutine(KickCooldown());
+                animator.SetBool("isKicking", false); ;
             }
         }
     }

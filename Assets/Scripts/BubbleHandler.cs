@@ -4,14 +4,13 @@ public class BubbleHandler : MonoBehaviour
 {
     private Rigidbody2D rb;
     private float originalGravityScale;
+    [SerializeField] private float Speed = 0.65f;
 
-    void Start()
+    void Update()
     {
-        rb = GetComponent<Rigidbody2D>();
-        if (rb != null)
-        {
-            originalGravityScale = rb.gravityScale;
-        }
+        transform.position += Vector3.left * Speed * Time.deltaTime;
+
+        Destroy(gameObject, 60f);
     }
 
     public void OnKicked(Vector2 force)
