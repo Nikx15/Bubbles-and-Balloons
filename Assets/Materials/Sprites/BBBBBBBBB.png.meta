@@ -1,0 +1,3000 @@
+fileFormatVersion: 2
+guid: c25056ac67255c640a517d6f4e2e1bee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BBBBBBBBB_0
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1167
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ad93aaf13ab654a90e4cbc8499fa41
+      internalID: -998931812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_1
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1188
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d4efbf69be63a479aeb96b98fcaa2d
+      internalID: 717366662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1188
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eba920baeee2e540aa3511d257884ae
+      internalID: -218716318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_3
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1186
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8ebfb7c0fb55546b14ab6e9185ef4f
+      internalID: 976142281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_4
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1187
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f518b31d9be3b042b9d57042f6d4cde
+      internalID: 2118450382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_5
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1164
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ec23f2816c31943af37fc619d620dd
+      internalID: 1522892289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_6
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1202
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44961890233a1f44386f87df2fd3a700
+      internalID: -1475365157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_7
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1201
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45f539f3a137e54eb766ecc109f64b0
+      internalID: -1049920633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1091
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85f3b3591d91104cadec828a919215b
+      internalID: -1979088435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_9
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1143
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5b9ae47e32b084f8538c506120f3dc
+      internalID: 610096145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1140
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453cc5dcb0f21674588e7d772cfaa2e2
+      internalID: 1050625676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_11
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1134
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65918e26ebbe8f045b9a32ce6b3f1ebb
+      internalID: 1406797031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_12
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1108
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6341fdde3ed20c64b86ead7903965c98
+      internalID: -1384873670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_13
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1127
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7708bf1069735a4bbf6028cbb40ff7d
+      internalID: -65034883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_14
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1127
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d771c7d15f9c1548a882f1661e30733
+      internalID: -951000334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_15
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1127
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17db4a1fbffb30d4fa7c5acac179ac7f
+      internalID: -1602745935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_16
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1108
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a5829771cef5d45ba4564f14b35497
+      internalID: 2095630998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_17
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1109
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757eb44b84c865843b2f9666665249fb
+      internalID: -1113785470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_18
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1100
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8277e75d20f87348a1f2a602f57dff1
+      internalID: -977404739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_19
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1148
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4c0f6a7030954479e4c3cd5e8de5af
+      internalID: 883168206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_20
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1135
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd91ebd8a8fbea4bb7bf1677f605454
+      internalID: 803069602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_21
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9719f94621ff994cb5785ab3af16fea
+      internalID: -2079274171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_22
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1091
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7c272455ed61c428f37c472cda4bed
+      internalID: -311147153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_23
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1091
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48f8c4f1a2c2704180e6defede2fe7b
+      internalID: -2131760139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_24
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1091
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8608808cef53b84a82352b922af9273
+      internalID: 2077016843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_25
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1042
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0df1b903c645b4f9bcc0666f3fa50e
+      internalID: -1994038069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_26
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1042
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4df4ee3041bb047b9a2d971094715d
+      internalID: -975838485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_27
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1051
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afa5b05736b2cb41b55af87e5f67d55
+      internalID: 685831876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_28
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1080
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613aaf5c17f4c0347a915f95f3839f8f
+      internalID: -1773974645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_29
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1059
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8905e28f1890eb747aecab071b530c71
+      internalID: 1444781419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_30
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1058
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f53a9d2f35ac584db576716089aa059
+      internalID: -717811526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_31
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1044
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41efb76ce4409240b1d4825057ed264
+      internalID: 1857353002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_32
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1045
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efc990c793a3934f8d616fe1769607a
+      internalID: -2038371738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_33
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1045
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57866f044dd961845a41afb1c5cadcf7
+      internalID: -1507421144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_34
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1045
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497f59c039255de45918c3e077d50352
+      internalID: -685387439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_35
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1044
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd454afc45fe45d4fbd4d8cbceccc43d
+      internalID: -1219300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_36
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 877
+        width: 114
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73214f693f4923e479deccf3dfd3b32d
+      internalID: -104213506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_37
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1025
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1778b36189148342b8c1289d5903b94
+      internalID: -549184603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_38
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1025
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa86e4cd3b3b344a8abec7b449a06ef
+      internalID: -387768615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_39
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 952
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaa08d9a6dcc2e409a66a62590752d6
+      internalID: 1425347209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_40
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 953
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040143ae33e448f49b8316bb3535fad6
+      internalID: -1895146683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_41
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 953
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c903ba76a81028408722958072d1ae0
+      internalID: 1940720718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_42
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 953
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a691e21b8aa0c49859cef35802e4ec
+      internalID: 1618628977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_43
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 953
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f82bc56b535f4b49a472125bcf030d6
+      internalID: 363508451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_44
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 945
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c5d5a966cd183438fd43f37a9dcb7f
+      internalID: -731109313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_45
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 954
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b799284f0ce4eee49926a61bcb3fe63d
+      internalID: -323365666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_46
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 971
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfdf6d65e473994f8746336d25fd53b
+      internalID: 2064210143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_47
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 971
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8af8eaa4fcab1346b0d74aa3e7ce15f
+      internalID: 409963141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_48
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 857
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3344cbeb7c4b7744ba478dd4b339bf13
+      internalID: -816458940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_49
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 856
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797ed4ccc9140594299252c32529a41e
+      internalID: 1160006231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_50
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 855
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cefd85e4f071b3498c55a916a2477e0
+      internalID: -874925888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_51
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 856
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcd990c778bf6843ab1ef13b45a4482
+      internalID: 1470891838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_52
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 855
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753d015285e6da24c8b3a817294a0c15
+      internalID: 132649037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_53
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 853
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e383c84cd987e2a44b2161e936ea2977
+      internalID: 1054041388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_54
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 853
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2962bcd2c818b44489d36e532fe2de01
+      internalID: 1192390988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_55
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 893
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae01e5626614f74a896fdf1b7fd0adc
+      internalID: -1064929120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_56
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 875
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749a4bdb71ebbca47b53139b496127a2
+      internalID: -1252696517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_57
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 827
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6680b772b714c045a23f349152ba6f2
+      internalID: -987098941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_58
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 844
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af9707b2bb866b4b9bfc2e112fc4bfa
+      internalID: 1564401130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_59
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 824
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8fa31ce55f6704d97476100fab823b
+      internalID: -1397466515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_60
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 756
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7732a464347203841ae684de7bf09080
+      internalID: -589489214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_61
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 751
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7280b51c26f9aaa448dd33e05e3f7c61
+      internalID: -1122070744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_62
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 754
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fde3133d8ced349ba4db7194b90e59
+      internalID: -1418349327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_63
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 754
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd9989c6481df24bb6524c80f7ceee4
+      internalID: -2040936393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_64
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 754
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b720dd3b740546e4ab08ce0e0f7ab39f
+      internalID: 1211915082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_65
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 699
+        width: 28
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7302b75582c264e840c3ab5af90a75
+      internalID: 1183024332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_66
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 704
+        width: 18
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dfc83db0b55e14eadfed2b9b43854b
+      internalID: -419564855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_67
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 700
+        width: 28
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ab8a8b73a5e31408919ae56f5eadb5
+      internalID: 592082414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_68
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 757
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0298f754cbbb92a4f93dfff967ec0e70
+      internalID: 149704097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_69
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 754
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db501774d49c1814fb5e897207c5a890
+      internalID: -1323083441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_70
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 755
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4c5813fd238d24fa4ffc8043a991ed
+      internalID: 1342976906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_71
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 754
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ecb8fbb94462543910a4de15c4932e
+      internalID: -718631157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_72
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 753
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e3875ed5b0fa84793ab1d0d31790ca
+      internalID: 409306071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_73
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 656
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3042028518e2d884996625407c05cbfa
+      internalID: 1479388748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_74
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 657
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ebc1d5cfd52684fa31a468c13bcda3
+      internalID: -1315145286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_75
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 660
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38192a666bfb974683ce7e599ac6ea7
+      internalID: 712901271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_76
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 662
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c72bc414678c374884a1a7714dc53bf
+      internalID: 1852152248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_77
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 659
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf1968065ae7884cbdeac6c4ad1b8f4
+      internalID: 376447688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_78
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 659
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e813e722793ab04e956705a06b48346
+      internalID: -2113372054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_79
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 657
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04fc5174a4b2cf46a18f34d30031e30
+      internalID: -1759506570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_80
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 657
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4118ae12884d744e9d0b068623965de
+      internalID: -2094039968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_81
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 651
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a8b644fff4d414d8cded7abc4e7d35
+      internalID: -1012489112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_82
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 652
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892f2452fd2cd2d44ac3f909f0ac54db
+      internalID: 1605633052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_83
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 661
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c97dea29c7be5648be59205c382010b
+      internalID: -1737098689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_84
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 667
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b150e6019284fc44b6a66b2f1b89471
+      internalID: 1983618450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_85
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 668
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78adef2f4c2596648875a78b833f3ad5
+      internalID: 2144997095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_86
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 574
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea76de0c59eb0c439d2a8a3ace6fb51
+      internalID: -2039802527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_87
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 573
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f6b7cfe3de0624da096d9c14e7d3b4
+      internalID: -102054694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_88
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 573
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5e11283224e70429476dd9650607ee
+      internalID: 848383565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_89
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 573
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2735f3a896b7f094498b5b9946717c9c
+      internalID: -2129786925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_90
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 571
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d0311b147651f478cbcc0ead1047fc
+      internalID: -123341199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_91
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 569
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adef99e15cbdf984c9650c33c67a658e
+      internalID: -1282523545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_92
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 569
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca539afd88e016498c2048afbf041d5
+      internalID: 454043521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_93
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 568
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15657aaae64073f4eb2b4d460173d511
+      internalID: -963514171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_94
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 569
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2c9234f46c21b41af8850eae8f2b08
+      internalID: -240403374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_95
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 570
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1ad372fb99ad34a989f6ae00c59edf
+      internalID: -87807531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_96
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 572
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dc0dd4b06f8364cac15d95946ca9e1
+      internalID: -235126620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_97
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 528
+        width: 55
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5dd2f8e2715894f85efd4147ccf061
+      internalID: -1553970127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_98
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 486
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cceed727ae8894d822710b749d3edd
+      internalID: 2028572077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_99
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 486
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bf98fcfb0a0df4e93d538a78265ba2
+      internalID: -1260251415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_100
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 486
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfea03c2bf10734d9001a32123fccbe
+      internalID: -1130449564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_101
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 485
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac61bade8d450b469bb5f2311f5b874
+      internalID: -1263547469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_102
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 490
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a453a22f5794d41a9bac05849b1bc3
+      internalID: -498731560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_103
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 489
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed275d1edb03f1243a247fc2c4da4b09
+      internalID: -1877469280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_104
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 486
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46558b3fb455fc54fba8674f2b104204
+      internalID: -172804530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_105
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 490
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcc7c5299744424c9d8f21614ec2f41
+      internalID: -1683052550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_106
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 498
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebb52cfc58a98e4e860c7f04af5a4a1
+      internalID: 1240709497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_107
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 466
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdf5337feb386c4c8788b3c09b7ed2b
+      internalID: -527317407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_108
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 401
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a169e71894c1c0a41b43ef4ff600b1f0
+      internalID: 106622457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_109
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 399
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c4260b883d17e4eb6a0e914a275759
+      internalID: 630352174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_110
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 396
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb86a5befcf9f9438d447e082c3fa32
+      internalID: 1871977960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_111
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 387
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0e9c8d12e66aa4a94849b1feb3ac31
+      internalID: -743633145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_112
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 434
+        width: 56
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557f8e5d370a1ec409fa926dbf80f618
+      internalID: -1938627239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_113
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 385
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3995a43f39a181b4fb71d9cbf1b0a038
+      internalID: 2070698032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_114
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 384
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3842b922abaee4cbb4b7108c84c521
+      internalID: 1388112208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_115
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 380
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222775803f57d7f45bc5cdfbb4b7fa97
+      internalID: 126749131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_116
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 388
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80639fc799e34f94c88a1bffc0040208
+      internalID: -37893903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_117
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 410
+        width: 56
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9196541d43c88ad4db88be4c139da38a
+      internalID: 1001795889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_118
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 319
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be32c4538f0f2c4498715d56a714ab8
+      internalID: -1195476116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_119
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 319
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70aa285949a1fb4daffa1a85ccf20ed
+      internalID: -1911313642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_120
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 389
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18574c7e4b1e0534cb396e8c89c60f19
+      internalID: -225269859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_121
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 318
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b569ed7e483c94a9dd14dd1efcc61f
+      internalID: 1300044795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_122
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 267
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b41924371c86ed48a8fcf03409f90fc
+      internalID: -771278677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_123
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 262
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eee0bfba29762a499e6a4bd1ff16108
+      internalID: 956546180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_124
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 279
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c946dad8d300166489b9af6416243bfa
+      internalID: 1067685408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_125
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 282
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9ab22d42d3eee40933f58253c7156a
+      internalID: 2072709138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_126
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 279
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85326adf4086334582c9771eb385df0
+      internalID: 76174843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_127
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 286
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52592f85961c2854495c73fdeca004e2
+      internalID: -321370622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_128
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 290
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0715fb270b5eaf6438237bc652a3e255
+      internalID: 268259842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BBBBBBBBB_129
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 292
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257ddc7e53477db43a22d4fdf8f4cc10
+      internalID: 1364155263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BBBBBBBBB_0: -998931812
+      BBBBBBBBB_1: 717366662
+      BBBBBBBBB_10: 1050625676
+      BBBBBBBBB_100: -1130449564
+      BBBBBBBBB_101: -1263547469
+      BBBBBBBBB_102: -498731560
+      BBBBBBBBB_103: -1877469280
+      BBBBBBBBB_104: -172804530
+      BBBBBBBBB_105: -1683052550
+      BBBBBBBBB_106: 1240709497
+      BBBBBBBBB_107: -527317407
+      BBBBBBBBB_108: 106622457
+      BBBBBBBBB_109: 630352174
+      BBBBBBBBB_11: 1406797031
+      BBBBBBBBB_110: 1871977960
+      BBBBBBBBB_111: -743633145
+      BBBBBBBBB_112: -1938627239
+      BBBBBBBBB_113: 2070698032
+      BBBBBBBBB_114: 1388112208
+      BBBBBBBBB_115: 126749131
+      BBBBBBBBB_116: -37893903
+      BBBBBBBBB_117: 1001795889
+      BBBBBBBBB_118: -1195476116
+      BBBBBBBBB_119: -1911313642
+      BBBBBBBBB_12: -1384873670
+      BBBBBBBBB_120: -225269859
+      BBBBBBBBB_121: 1300044795
+      BBBBBBBBB_122: -771278677
+      BBBBBBBBB_123: 956546180
+      BBBBBBBBB_124: 1067685408
+      BBBBBBBBB_125: 2072709138
+      BBBBBBBBB_126: 76174843
+      BBBBBBBBB_127: -321370622
+      BBBBBBBBB_128: 268259842
+      BBBBBBBBB_129: 1364155263
+      BBBBBBBBB_13: -65034883
+      BBBBBBBBB_14: -951000334
+      BBBBBBBBB_15: -1602745935
+      BBBBBBBBB_16: 2095630998
+      BBBBBBBBB_17: -1113785470
+      BBBBBBBBB_18: -977404739
+      BBBBBBBBB_19: 883168206
+      BBBBBBBBB_2: -218716318
+      BBBBBBBBB_20: 803069602
+      BBBBBBBBB_21: -2079274171
+      BBBBBBBBB_22: -311147153
+      BBBBBBBBB_23: -2131760139
+      BBBBBBBBB_24: 2077016843
+      BBBBBBBBB_25: -1994038069
+      BBBBBBBBB_26: -975838485
+      BBBBBBBBB_27: 685831876
+      BBBBBBBBB_28: -1773974645
+      BBBBBBBBB_29: 1444781419
+      BBBBBBBBB_3: 976142281
+      BBBBBBBBB_30: -717811526
+      BBBBBBBBB_31: 1857353002
+      BBBBBBBBB_32: -2038371738
+      BBBBBBBBB_33: -1507421144
+      BBBBBBBBB_34: -685387439
+      BBBBBBBBB_35: -1219300488
+      BBBBBBBBB_36: -104213506
+      BBBBBBBBB_37: -549184603
+      BBBBBBBBB_38: -387768615
+      BBBBBBBBB_39: 1425347209
+      BBBBBBBBB_4: 2118450382
+      BBBBBBBBB_40: -1895146683
+      BBBBBBBBB_41: 1940720718
+      BBBBBBBBB_42: 1618628977
+      BBBBBBBBB_43: 363508451
+      BBBBBBBBB_44: -731109313
+      BBBBBBBBB_45: -323365666
+      BBBBBBBBB_46: 2064210143
+      BBBBBBBBB_47: 409963141
+      BBBBBBBBB_48: -816458940
+      BBBBBBBBB_49: 1160006231
+      BBBBBBBBB_5: 1522892289
+      BBBBBBBBB_50: -874925888
+      BBBBBBBBB_51: 1470891838
+      BBBBBBBBB_52: 132649037
+      BBBBBBBBB_53: 1054041388
+      BBBBBBBBB_54: 1192390988
+      BBBBBBBBB_55: -1064929120
+      BBBBBBBBB_56: -1252696517
+      BBBBBBBBB_57: -987098941
+      BBBBBBBBB_58: 1564401130
+      BBBBBBBBB_59: -1397466515
+      BBBBBBBBB_6: -1475365157
+      BBBBBBBBB_60: -589489214
+      BBBBBBBBB_61: -1122070744
+      BBBBBBBBB_62: -1418349327
+      BBBBBBBBB_63: -2040936393
+      BBBBBBBBB_64: 1211915082
+      BBBBBBBBB_65: 1183024332
+      BBBBBBBBB_66: -419564855
+      BBBBBBBBB_67: 592082414
+      BBBBBBBBB_68: 149704097
+      BBBBBBBBB_69: -1323083441
+      BBBBBBBBB_7: -1049920633
+      BBBBBBBBB_70: 1342976906
+      BBBBBBBBB_71: -718631157
+      BBBBBBBBB_72: 409306071
+      BBBBBBBBB_73: 1479388748
+      BBBBBBBBB_74: -1315145286
+      BBBBBBBBB_75: 712901271
+      BBBBBBBBB_76: 1852152248
+      BBBBBBBBB_77: 376447688
+      BBBBBBBBB_78: -2113372054
+      BBBBBBBBB_79: -1759506570
+      BBBBBBBBB_8: -1979088435
+      BBBBBBBBB_80: -2094039968
+      BBBBBBBBB_81: -1012489112
+      BBBBBBBBB_82: 1605633052
+      BBBBBBBBB_83: -1737098689
+      BBBBBBBBB_84: 1983618450
+      BBBBBBBBB_85: 2144997095
+      BBBBBBBBB_86: -2039802527
+      BBBBBBBBB_87: -102054694
+      BBBBBBBBB_88: 848383565
+      BBBBBBBBB_89: -2129786925
+      BBBBBBBBB_9: 610096145
+      BBBBBBBBB_90: -123341199
+      BBBBBBBBB_91: -1282523545
+      BBBBBBBBB_92: 454043521
+      BBBBBBBBB_93: -963514171
+      BBBBBBBBB_94: -240403374
+      BBBBBBBBB_95: -87807531
+      BBBBBBBBB_96: -235126620
+      BBBBBBBBB_97: -1553970127
+      BBBBBBBBB_98: 2028572077
+      BBBBBBBBB_99: -1260251415
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
